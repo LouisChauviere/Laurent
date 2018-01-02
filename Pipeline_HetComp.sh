@@ -8,12 +8,12 @@
 
 
 
-path=~/Documents/Laurent/B00HR
-vcf="_hs37d5_BOTH.HC.annot.vcf"
-mother="B00HROZ"
-father="B00HRP0"
-child="B00HROY"
-family="B00HR"
+path=~/path/to/vcf/files
+vcf="_common_vcfname.vcf"
+mother="MotherId"
+father="FatherId"
+child="ChildId"
+family="familyId"
 
 
 #If you have non zipped file : it can be zipped there
